@@ -9,7 +9,7 @@ The API has two endpoints: one for submitting a receipt and another for retrievi
 1. Clone this repository:
 
    ```
-   git clone https://github.com/mattlui/receipt-processor.git
+   git clone https://github.com/MattLui/receipt-processor.git
 
    cd receipt-processor
    ```
