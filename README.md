@@ -7,11 +7,17 @@ The API has two endpoints: one for submitting a receipt and another for retrievi
 ## Installation
 
 1. Clone this repository:
+
    ```
    git clone https://github.com/mattlui/receipt-processor.git
+
    cd receipt-processor
    ```
-2. Install dependencies (Go will handle this automatically based on `go.mod`).
+
+2. Install dependencies:
+   ```
+   go mod tidy
+   ```
 
 ## Running the Application
 
