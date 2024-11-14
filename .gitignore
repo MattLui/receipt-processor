@@ -1,0 +1,6 @@
+# Binaries
+/bin/
+/pkg/
+
+# Go Modules
+/go.sum
