@@ -23,7 +23,7 @@ The API has two endpoints: one for submitting a receipt and another for retrievi
 
 To start the server, run: `go run main.go`
 
-This will start the server at `http://localhost:8080`.
+This will start the server at `http://localhost:8080`
 
 ## API Endpoints
 
